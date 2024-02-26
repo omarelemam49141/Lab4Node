@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Uploaded or generated files
+/images/
+
+# Generated files
+*.png
+
+# Dependency lock file
+package-lock.json
+
+# Editor files
+.vscode/
